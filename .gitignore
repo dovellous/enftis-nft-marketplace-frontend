@@ -1,2 +1,7 @@
-node_modules/
-yarn.lock
+
+.env
+build
+dist
+node_modules
+*.lock
+*.log
